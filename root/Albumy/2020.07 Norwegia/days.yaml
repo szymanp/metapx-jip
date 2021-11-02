@@ -1,0 +1,18 @@
+group:
+  title:
+    pl: Dzień po dniu
+    en: Day by day
+
+  subgroups:
+    - name: Mandal
+      description:
+        markdown:
+          Pierwszy dzień spędziliśmy w miejscowości [Mandal](https://goo.gl/maps/fwUCqYoKcwNCYXGm7).
+      
+      query: data['metapx:date'] == date('2020-07-08')
+
+    - name: Lindesnes
+      title:
+        pl: Latarnia w Lindesnes
+        en: Lindesnes lighthouse
+      query: data['metapx:date'] == date('2020-07-09')
