@@ -16,3 +16,63 @@ group:
         pl: Latarnia w Lindesnes
         en: Lindesnes lighthouse
       query: data['metapx:date'] == date('2020-07-09')
+
+    - name: Flekkefjord, Brufjell
+      title:
+        pl: Flekkefjord i jaskinie Brufjell
+        en: Flekkefjord and the Brufjell Caves
+      query: data['metapx:date'] == date('2020-07-10')
+
+    - name: Flekkefjord, dzień 2
+      title:
+        pl: Flekkefjord, dzień 2
+        en: Flekkefjord, day 2
+      query: data['metapx:date'] == date('2020-07-11')
+
+    - name: Stavanger
+      title: Stavanger
+      query: data['metapx:date'] == date('2020-07-13')
+
+    - name: Okolice Stavanger
+      title:
+        pl: Okolice Stavanger
+        en: Stavanger surroundings
+      query: data['metapx:date'] == date('2020-07-14')
+
+    - name: Preikestolen
+      title: Preikestolen
+      query: data['metapx:date'] == date('2020-07-15')
+
+    - name: Lysefjord
+      title:
+        pl: Lysefjord z widokiem na Preikestolen
+        en: Lysefjord with a view to Preikestolen
+      query: data['metapx:date'] == date('2020-07-16')
+
+    - name: Lysefjord, Røssdalen
+      title:
+        pl: Røssdalen
+        en: Røssdalen
+      query: data['metapx:date'] == date('2020-07-17')
+
+    - name: Folgefonna
+      title:
+        pl: Lodowiec Folgefonna
+        en: Folgefonna glacier
+      query: data['metapx:date'] == date('2020-07-19')
+    
+    - name: Odda-Hardangervidda
+      title:
+        pl: Z Oddy na Hardangervidda
+        en: From Odda to Hardangervidda
+      query: data['metapx:date'] == date('2020-07-20')
+
+    - name: Hardangervidda
+      title: Hardangervidda 
+      query: data['metapx:date'] == date('2020-07-21')
+
+    - name: Oslo
+      title:
+        pl: Skansen w Oslo
+        en: Oslo Open Air Museum
+      query: data['metapx:date'] == date('2020-07-22')
