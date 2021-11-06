@@ -1,0 +1,9 @@
+group:
+  title:
+    pl: Ulubione
+    en: Favorites
+  
+  media:
+    - path: ./IMG_1398.JPG
+    - path: ./IMG_1399.JPG
+    - path: ./IMG_1473.JPG
