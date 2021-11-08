@@ -60,12 +60,31 @@ group:
         pl: Lodowiec Folgefonna
         en: Folgefonna glacier
       query: data['metapx:date'] == date('2020-07-19')
+
+      description:
+        markdown:
+          en: |
+            The [Folgefonna glacier](https://en.wikipedia.org/wiki/Folgefonna) is located next to the town Odda, where we stopped for two nights.
+          pl: |
+            [Lodowiec Folgefonna](https://pl.wikipedia.org/wiki/Lodowiec_Folgefonna) znajduje się niedaleko miejscowości Odda, gdzie zatrzymaliśmy się na dwie noce.
     
     - name: Odda-Hardangervidda
       title:
         pl: Z Oddy na Hardangervidda
         en: From Odda to Hardangervidda
-      query: data['metapx:date'] == date('2020-07-20')
+
+      subgroups:
+      - name: Poranek
+        query: data['metapx:date'] == date('2020-07-20') and name >= "IMG_1579.JPG" and name <= "IMG_1587.JPG"
+
+      - name: Muzeum
+        query: name >= "IMG_1588.JPG" and name <= "IMG_1596.JPG"
+        description:
+          markdown:
+            Po drodze zatrzymaliśmy się w muzeum [Norsk Natursenter Hardanger](https://goo.gl/maps/kwFndotfmS3H4x159).
+
+      - name: Wodospad
+        query: name >= "IMG_1597.JPG" and name <= "IMG_1616.JPG"
 
     - name: Hardangervidda
       title: Hardangervidda 
