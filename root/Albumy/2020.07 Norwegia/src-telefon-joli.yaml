@@ -1191,10 +1191,6 @@ media:
     metapx:width: 3088
     metapx:height: 2316
     metapx:date: 2020-07-20T06:22:32.465Z
-- name: Jola_IMG_1205.PNG
-  reference: 6501658dec33adb22ecf130e1bf5b9306bcc68b1964903cfb4d3aac973f970ea
-  data:
-    metapx:date: 2020-07-20T08:22:48Z
 - name: Jola_IMG_1206.JPG
   reference: 605396411e4c479a6f9c3eedf33565a2d71e37b45c8133ffc34d3dfbb78735cb
   data:
