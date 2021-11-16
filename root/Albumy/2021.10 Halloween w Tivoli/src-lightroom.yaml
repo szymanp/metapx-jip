@@ -1,0 +1,31 @@
+media:
+- name: Lightroom_IMG_6335.jpg
+  reference: e35784ec3ad3dc1893c78bdd9f7e456576088f016f1ee45c92ff38cf8db6c410
+  data:
+    metapx:width: 3141
+    metapx:height: 4711
+    metapx:date: 2021-10-24T13:17:54.390Z
+- name: Lightroom_IMG_6336.jpg
+  reference: 97716c2f9a823e3233fc14166ffd000be2003baa111a61a25ba00196a75e82ad
+  data:
+    metapx:width: 3456
+    metapx:height: 5184
+    metapx:date: 2021-10-24T13:20:14.190Z
+- name: Lightroom_IMG_6337.jpg
+  reference: b3fe47c0dfcd53768351ce8579da0b01787265932777d9ff207f771abcfa3f18
+  data:
+    metapx:width: 3456
+    metapx:height: 5184
+    metapx:date: 2021-10-24T13:20:58.560Z
+- name: Lightroom_IMG_6339.jpg
+  reference: e0513f5be8ab3eac187f8c72de2628dea0bcd532a810700f5885525f147e6314
+  data:
+    metapx:width: 5184
+    metapx:height: 3456
+    metapx:date: 2021-10-24T13:24:44.660Z
+- name: Lightroom_IMG_6344.jpg
+  reference: 7c7cf1d0444300c989d2160817238c88983e2d122c76609321eb621484ea176d
+  data:
+    metapx:width: 4622
+    metapx:height: 2600
+    metapx:date: 2021-10-24T13:26:22.430Z
