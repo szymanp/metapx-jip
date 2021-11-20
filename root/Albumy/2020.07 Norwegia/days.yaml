@@ -75,20 +75,59 @@ group:
 
       subgroups:
       - name: Poranek
-        query: data['metapx:date'] == date('2020-07-20') and name >= "IMG_1579.JPG" and name <= "IMG_1587.JPG"
+        query: data['metapx:date'] == date('2020-07-20') and data['metapx:date'] <= time('13:00')
+        description:
+          markdown:
+            Rano wybraliśmy się na krótką wycieczkę w okolice elektrowni wodnej [Kinso](https://goo.gl/maps/VuAsxM49xoW5ECP5A).
 
       - name: Muzeum
-        query: name >= "IMG_1588.JPG" and name <= "IMG_1596.JPG"
+        query: data['metapx:date'] == date('2020-07-20') and data['metapx:date'] > time('13:00') and data['metapx:date'] <= time('16:00')
         description:
           markdown:
             Po drodze zatrzymaliśmy się w muzeum [Norsk Natursenter Hardanger](https://goo.gl/maps/kwFndotfmS3H4x159).
 
       - name: Wodospad
-        query: name >= "IMG_1597.JPG" and name <= "IMG_1616.JPG"
+        title:
+          pl: Wodospad Vøringfossen
+          en: Vøringfossen waterfall
+        query: data['metapx:date'] == date('2020-07-20') and data['metapx:date'] >= time('16:00') and data['metapx:date'] < time('17:00')
+
+      - name: Garen
+        title: Garen Camping
+        query: data['metapx:date'] == date('2020-07-20') and data['metapx:date'] >= time('17:00')
+        description:
+          markdown:
+            Noc na płaskowyżu Hardangervidda spędziliśmy nie w namiocie, a w chatce na campingu [Garen](https://goo.gl/maps/yurPNFgaApm9WiQ58).
 
     - name: Hardangervidda
-      title: Hardangervidda 
-      query: data['metapx:date'] == date('2020-07-21')
+      title: Hardangervidda
+
+      subgroups:
+      - name: Owce
+        query: data['metapx:date'] == date('2020-07-21') and data['metapx:date'] < time('12:30')
+        description:
+          markdown:
+            Gdy próbowaliśmy dojechać do tamy [Sysen](https://goo.gl/maps/YfzkBmvQMyE9Yta47), stado owiec zagrodziło naszą drogę.
+
+      - name: Trondsbu
+        query: data['metapx:date'] == date('2020-07-21') and data['metapx:date'] >= time('12:30') and data['metapx:date'] < time('15:00')
+
+      - name: Droga
+        query: data['metapx:date'] == date('2020-07-21') and data['metapx:date'] >= time('15:00') and data['metapx:date'] < time('19:00')
+        description:
+          markdown:
+            Z Hardangarvidda czekała nas dłuższa trasa do pokonania. Po drodze mieliśmy jednak wiele ładnych widoków, w tym odwiedziliśmy
+            [kościółek w Gol](https://goo.gl/maps/xA93c8tfQMBSrS63A).
+
+      - name: Liodden 
+        title:
+          pl: Camping Liodden
+          en: Liodden camping
+        query: data['metapx:date'] == date('2020-07-21') and data['metapx:date'] >= time('19:00')
+        description:
+          markdown:
+            Wieczorem dojechaliśmy na naszą ostatnią noc pod namiotem - w campingu [Liodden](https://goo.gl/maps/2bXrgcv1E99oGKrbA).
+
 
     - name: Oslo
       title:
