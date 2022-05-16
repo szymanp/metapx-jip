@@ -1,3 +1,0 @@
-group:
-  title: Lightroom
-  query: name.startsWith('Lightroom_')
