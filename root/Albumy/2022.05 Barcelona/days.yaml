@@ -1,0 +1,17 @@
+group:
+  title:
+    pl: Dni
+    en: Days
+
+  subgroups:
+    - name: Dzień 1
+      query: data['metapx:date'] == date('2022-05-01')
+
+    - name: Dzień 2
+      query: data['metapx:date'] == date('2022-05-02')
+
+    - name: Dzień 3
+      query: data['metapx:date'] == date('2022-05-03')
+
+    - name: Dzień 4
+      query: data['metapx:date'] == date('2022-05-04')
