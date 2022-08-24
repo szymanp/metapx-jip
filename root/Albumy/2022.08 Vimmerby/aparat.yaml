@@ -1,0 +1,361 @@
+media:
+  title:
+    pl: Zdjęcia z aparatu
+    en: Camera photos
+  content:
+    - name: IMG_8526.JPG
+      reference: 0f770760fa0a9dceeb3683be310bca8c00bfc35c19d2e1797fc0e858ed291543
+      data:
+        metapx:date: 2022-08-21T09:01:13.000Z
+    - name: IMG_8554.JPG
+      reference: d115af426d71d87329e656ea375404e20958239458c516036f58345a7c99c1c9
+      data:
+        metapx:date: 2022-08-21T09:44:25.000Z
+    - name: IMG_8528.JPG
+      reference: a5a0c3bd330406ad0f7a8554743627528b67cf50c22dfce6d908d7ea498e3554
+      data:
+        metapx:date: 2022-08-21T09:09:03.000Z
+    - name: IMG_8477.JPG
+      reference: 7503d90bbdfa569b1c433e9acbc7f1f88bf2b42d27623f25dd1d066d0495867c
+      data:
+        metapx:date: 2022-08-20T09:56:47.000Z
+    - name: IMG_8553.JPG
+      reference: 30b3e4ff8fc7349de6d66ae11d6e74611b78709b580c4656d872574f648702c8
+      data:
+        metapx:date: 2022-08-21T09:42:51.000Z
+    - name: IMG_8493.JPG
+      reference: 10e5dd2e940e738b9cd6d375b4516ee31247d2d3c7a6a64f698522d39e4edaae
+      data:
+        metapx:date: 2022-08-20T10:17:35.000Z
+    - name: IMG_8442.JPG
+      reference: a9d65f4e4ce3ff96af9b8c519dd475b4a7183680f18b84e54df00c76e855bb29
+      data:
+        metapx:date: 2022-08-20T08:38:41.000Z
+    - name: IMG_8561.JPG
+      reference: 047a7e6220d1e7267bebec7a892f3f4dbbc516f7dbdf1aca0f5cce13e032853d
+      data:
+        metapx:date: 2022-08-21T10:38:34.000Z
+    - name: IMG_8494.JPG
+      reference: a0f69bd16f1c44c74123ce46442beaae370394ae093e5693c073c76920fee602
+      data:
+        metapx:date: 2022-08-20T10:18:04.000Z
+    - name: IMG_8445.JPG
+      reference: fa58b11b465765ad285b07981bb2954766572c231f3e920689eb10821bfa399d
+      data:
+        metapx:date: 2022-08-20T08:58:45.000Z
+    - name: IMG_8437.JPG
+      reference: b99b424902ce4bbb705f157188c589203e50d7a20e4350dd17d0b5bb5e793163
+      data:
+        metapx:date: 2022-08-20T08:35:22.000Z
+    - name: IMG_8502.JPG
+      reference: 4b1eec60e49cbbf0d774c98ab012f7307026d96b45ee1177784dcfa35d820ec0
+      data:
+        metapx:date: 2022-08-20T11:19:41.000Z
+    - name: IMG_8454.JPG
+      reference: 6721e4d34b6b2cfe501979bd456ddf6b0390be2da32892f140c03666ffc018dc
+      data:
+        metapx:date: 2022-08-20T09:15:02.000Z
+    - name: IMG_8482.JPG
+      reference: 9168e08c0e5951bcc7ed191701f6728699a251743b74b451c50fdd3602e724ae
+      data:
+        metapx:date: 2022-08-20T10:01:14.000Z
+    - name: IMG_8545.JPG
+      reference: 94c755726a29379a16434d5c207316e7f8dbe608eeffa89b437e1ddf8ff544d9
+      data:
+        metapx:date: 2022-08-21T09:36:28.000Z
+    - name: IMG_8461.JPG
+      reference: af77949312a5354a946ef08010cd6809ab46b0a2fd437d365cdf7e8858084f8d
+      data:
+        metapx:date: 2022-08-20T09:35:49.000Z
+    - name: IMG_8539.JPG
+      reference: 7d11d129df1b9aa8f3dfeeb233bc0b8ba243f498c24ebf616775380db4f6f0b9
+      data:
+        metapx:date: 2022-08-21T09:32:26.000Z
+    - name: IMG_8537.JPG
+      reference: 534964dee5f9e40275c5f6f1e321f81388dbb2fb9cbacccfac5cdf47cd4f3e08
+      data:
+        metapx:date: 2022-08-21T09:26:19.000Z
+    - name: IMG_8468.JPG
+      reference: 1dcc040416bc69802ffca91ffe82d71b6b4a9d68e1b97adf5588e02fea92061f
+      data:
+        metapx:date: 2022-08-20T09:52:47.000Z
+    - name: IMG_8530.JPG
+      reference: 66df66483e9753df77bd1bf001edcbb458475d93d55f83bfb546961926d06cdc
+      data:
+        metapx:date: 2022-08-21T09:09:06.000Z
+    - name: IMG_8512.JPG
+      reference: af6b7fc727473686d350156a46729fa90ec1725c259565ccfe2acc2803f9aa21
+      data:
+        metapx:date: 2022-08-20T14:35:16.000Z
+    - name: IMG_8560.JPG
+      reference: db8fadedb880ac9e3a70b43ae06849a28afd0558545c894eefeca3c23c8d5296
+      data:
+        metapx:date: 2022-08-21T10:38:28.000Z
+    - name: IMG_8444.JPG
+      reference: 5dab178da52423d7e23932eb5cbc1e295ca81f7c10065eff0494c8a51a10db65
+      data:
+        metapx:date: 2022-08-20T08:58:35.000Z
+    - name: IMG_8443.JPG
+      reference: d0db38a2f09572e33837b3c95db0491719fad98d6baac34d213b2283be066cbf
+      data:
+        metapx:date: 2022-08-20T08:55:34.000Z
+    - name: IMG_8476.JPG
+      reference: d377fa8b31ea217ee5acb07bd423b893e2fc28410ca9ecb71684289ffa9d95cc
+      data:
+        metapx:date: 2022-08-20T09:56:10.000Z
+    - name: IMG_8552.JPG
+      reference: 424f9e63a46a1583d1ed602f82e0039d20034a4712e0eed6c0064549293315d8
+      data:
+        metapx:date: 2022-08-21T09:41:33.000Z
+    - name: IMG_8555.JPG
+      reference: a9792e47ca9f299a1b88b175dfec6fa1f6a2546f4287b6da4251282aa8e02542
+      data:
+        metapx:date: 2022-08-21T09:44:29.000Z
+    - name: IMG_8529.JPG
+      reference: 32d55ac036149e5d8eb49cbcac3ade01aa5e047d80716b33c0307b8c38a9e3ff
+      data:
+        metapx:date: 2022-08-21T09:09:04.000Z
+    - name: IMG_8471.JPG
+      reference: 4474e40bbe9987556e03ef902aff70239b038f3addb87814111f528e788e1be9
+      data:
+        metapx:date: 2022-08-20T09:53:54.000Z
+    - name: IMG_8527.JPG
+      reference: 2d2be63e1b6387fcb0f78da56cf3e4f6e44efab57f1608df2021d5a553b3ebe7
+      data:
+        metapx:date: 2022-08-21T09:02:26.000Z
+    - name: IMG_8478.JPG
+      reference: 90a3ea27c28012e7ec7eea19c55e477a77dcd90c34ed37c7e41258bec6c18bbd
+      data:
+        metapx:date: 2022-08-20T09:57:34.000Z
+    - name: IMG_8469.JPG
+      reference: 4f21522d6b3b4ff07c98165cba1be81b4987a402cc7da760fa94d763395b3bd7
+      data:
+        metapx:date: 2022-08-20T09:53:47.000Z
+    - name: IMG_8531.JPG
+      reference: 0e34b3b0fd864367a9b743066f24769053d1ab64b177709c43c4202b021729c0
+      data:
+        metapx:date: 2022-08-21T09:09:08.000Z
+    - name: IMG_8536.JPG
+      reference: bc2f2fe4786e788009d22a437d71d6744d7791a4e4087fccabef3a7decde6834
+      data:
+        metapx:date: 2022-08-21T09:25:35.000Z
+    - name: IMG_8544.JPG
+      reference: ef5d8688f0678b6d3a70488a906ce1a5e93fbcccd149396012182d33bc839f56
+      data:
+        metapx:date: 2022-08-21T09:34:11.000Z
+    - name: IMG_8460.JPG
+      reference: b986f90eb43b1a63cac9e8efce34a956dd5f612d5d84461102e84423664feabd
+      data:
+        metapx:date: 2022-08-20T09:35:44.000Z
+    - name: IMG_8452.JPG
+      reference: b3a8741eb9131225b4a7cc15ccfdd6cc04d7918f8f19fd307e8e97142eb7fb8e
+      data:
+        metapx:date: 2022-08-20T09:10:52.000Z
+    - name: IMG_8483.JPG
+      reference: e8fd143834a97a05db16257808f939fa48f66561459e9ae295ed2632e7223bd7
+      data:
+        metapx:date: 2022-08-20T10:07:39.000Z
+    - name: IMG_8455.JPG
+      reference: b5c049f354619727cfc36a63d8db986f49f2d9dd1c778c039ffdcf8d48c35f2e
+      data:
+        metapx:date: 2022-08-20T09:23:22.000Z
+    - name: IMG_8484.JPG
+      reference: 41183c44b529735a1e2a368db250c19d05cdfd70ddabf8fdf2f8fbe8f126364a
+      data:
+        metapx:date: 2022-08-20T10:08:52.000Z
+    - name: IMG_8503.JPG
+      reference: 27168aa1f248e35177afdfd80bec400b04f0d32710be98ceb06caf20b26af2b9
+      data:
+        metapx:date: 2022-08-20T12:26:21.000Z
+    - name: IMG_8549.JPG
+      reference: 8ee6fb3a50767872a3bfc4fe1bc2de2c70b313ad2311abcee1727f449b5e3ddd
+      data:
+        metapx:date: 2022-08-21T09:39:00.000Z
+    - name: IMG_8532.JPG
+      reference: e3c2ce08ccf32d7f31dec362a3b60148a1c2c44a3fa12642d64981ce6275a4c7
+      data:
+        metapx:date: 2022-08-21T09:09:11.000Z
+    - name: IMG_8464.JPG
+      reference: 4cf073ac74634047c01db1eb5012872ed4368c6249f4f6586c88b09dbf3a1f70
+      data:
+        metapx:date: 2022-08-20T09:44:40.000Z
+    - name: IMG_8540.JPG
+      reference: 8332fd09642ad959cac636aa9edc2e4effbf926545e7f7e8062d5f5aaa1f4aa4
+      data:
+        metapx:date: 2022-08-21T09:33:55.000Z
+    - name: IMG_8547.JPG
+      reference: 421f1b14568e7d0a0662855f5c53fb3e79dcbbf79656a9186f609ab0487103bb
+      data:
+        metapx:date: 2022-08-21T09:37:38.000Z
+    - name: IMG_8463.JPG
+      reference: d35b1cf62fa6f2131c5d623af59c3692563b8d1c21179e8aaff4e03f25fdf2a1
+      data:
+        metapx:date: 2022-08-20T09:44:34.000Z
+    - name: IMG_8480.JPG
+      reference: be100838a53463d25ddb84272d1f5302fa63f82e5761d43890fc8de521c06409
+      data:
+        metapx:date: 2022-08-20T09:59:35.000Z
+    - name: IMG_8509.JPG
+      reference: f0abcf899626f066835a1e936d4fec3df2462dde563bb302549b8192f3b6f105
+      data:
+        metapx:date: 2022-08-20T14:34:07.000Z
+    - name: IMG_8458.JPG
+      reference: 49941fd597ab0e729a5ef51587f1eef12ae2d53e66a62535661bc47503d94a61
+      data:
+        metapx:date: 2022-08-20T09:24:59.000Z
+    - name: IMG_8489.JPG
+      reference: ab225dd5a44cfb2daaf6b4a9abefddfa1693cbf7322ffbdfa4934b5b1c7a55e1
+      data:
+        metapx:date: 2022-08-20T10:10:57.000Z
+    - name: IMG_8500.JPG
+      reference: 82e641b052e9083604a7fc6129369c4105ecda1ea2c1e31af6deb64c6b3c5a44
+      data:
+        metapx:date: 2022-08-20T11:19:32.000Z
+    - name: IMG_8498.JPG
+      reference: 6038db7282fdc6dcedc06d95fd54959dfc4220f932b542198430f759841022ab
+      data:
+        metapx:date: 2022-08-20T11:02:03.000Z
+    - name: IMG_8449.JPG
+      reference: 73fdd7f6f5e8149df0e811a8a4660781beb32c8b41ad41df5d52ca10d4b322c9
+      data:
+        metapx:date: 2022-08-20T09:05:29.000Z
+    - name: IMG_8518.JPG
+      reference: a2aa3665e3db5522482107966bdaa58563efc0b55aa9097c041f78bde1e214e5
+      data:
+        metapx:date: 2022-08-20T15:46:46.000Z
+    - name: IMG_8491.JPG
+      reference: 2611cf2316d19e4434a10f8dc6c05fc5ce5c5e8612508f1eb0106b799daf51ea
+      data:
+        metapx:date: 2022-08-20T10:13:33.000Z
+    - name: IMG_8440.JPG
+      reference: 941d62f42bddb5d94dfdef2cfef579f88503e7589d2b16b611be455e39e49fa0
+      data:
+        metapx:date: 2022-08-20T08:37:19.000Z
+    - name: IMG_8563.JPG
+      reference: d68338627a799d266b4ae306d2da85739d7e129668ebedac42171cf7bacc6a39
+      data:
+        metapx:date: 2022-08-21T10:59:00.000Z
+    - name: IMG_8496.JPG
+      reference: 611b2470ead16847c0dd83670534b7526e1da4a86c1f60b44ad9e64c15704738
+      data:
+        metapx:date: 2022-08-20T10:28:47.000Z
+    - name: IMG_8447.JPG
+      reference: 05ffb509828fcf6f7595ffd50428cbaec8202e0d542a0a343069a2b6075b756b
+      data:
+        metapx:date: 2022-08-20T09:03:01.000Z
+    - name: IMG_8556.JPG
+      reference: 68f4bfc77a92b58ebd9dde5023147fc9abe823b1b5eaebb96aacfa4bca41c921
+      data:
+        metapx:date: 2022-08-21T09:45:03.000Z
+    - name: IMG_8472.JPG
+      reference: a35d79327dbe4b781dd0d3d545009e1754d1ca98b87cbbd00c4557ca73b12c28
+      data:
+        metapx:date: 2022-08-20T09:54:19.000Z
+    - name: IMG_8475.JPG
+      reference: dba922ffe87a3620ce7cfb6e3028af6077ac1f0e78f312c2e5a4e235fa5f250c
+      data:
+        metapx:date: 2022-08-20T09:55:56.000Z
+    - name: IMG_8551.JPG
+      reference: b4ef29e547459552c232b0715e6e97a90a257c45472a6421868ee62c9f565014
+      data:
+        metapx:date: 2022-08-21T09:41:01.000Z
+    - name: IMG_8523.JPG
+      reference: 5b97b72d32eaa71ae3a8224129d7f9fc02c98e999bac2ba67a2af98e6f430d41
+      data:
+        metapx:date: 2022-08-21T08:54:40.000Z
+    - name: IMG_8558.JPG
+      reference: 174fe4e039f0a00d763aee98f531e44f8f4f234ef03017a1a0bc3e7e5104e14d
+      data:
+        metapx:date: 2022-08-21T10:15:04.000Z
+    - name: IMG_8524.JPG
+      reference: 370489951c42a1b650c78aa7d01e0341225a138f4c628f3d018e5044b82b123b
+      data:
+        metapx:date: 2022-08-21T08:54:46.000Z
+    - name: IMG_8459.JPG
+      reference: c813e1a1bb73124ec5a7abc8e4d970ce4c522439b32193a3dceee322103cb3e3
+      data:
+        metapx:date: 2022-08-20T09:35:41.000Z
+    - name: IMG_8501.JPG
+      reference: f23f9c341a44ba3a1be35548fdce2607019c6e9007f93d74e08d2363a8a35968
+      data:
+        metapx:date: 2022-08-20T11:19:38.000Z
+    - name: IMG_8450.JPG
+      reference: 09a78ff23d50a69f6d3dc7c2582353eed28a48e9bff60f8f42ca74d422bf7ca9
+      data:
+        metapx:date: 2022-08-20T09:10:04.000Z
+    - name: IMG_8481.JPG
+      reference: 7a33d41ff747e64f77344d2e7f1a94c23531d8282a8880fdc1c60eb4b29cc9e4
+      data:
+        metapx:date: 2022-08-20T10:00:32.000Z
+    - name: IMG_8508.JPG
+      reference: 0d62c1b2ee63081b89268770b197a2af573ae96459f71ec92e3c72654eb19bd8
+      data:
+        metapx:date: 2022-08-20T14:33:58.000Z
+    - name: IMG_8546.JPG
+      reference: 636c46cefdcf309ce0e0ea6d175db578226dee6246461563818bdfd7172b0dcc
+      data:
+        metapx:date: 2022-08-21T09:37:11.000Z
+    - name: IMG_8465.JPG
+      reference: 34af8574f1c8d2d3974c670201c9ffec616b3ac8a620a417f20891bc33a44658
+      data:
+        metapx:date: 2022-08-20T09:48:58.000Z
+    - name: IMG_8548.JPG
+      reference: 67ae83544a328d79b44c7c83a28ed2937e68d6049d5f0f783c10621c94956e03
+      data:
+        metapx:date: 2022-08-21T09:38:19.000Z
+    - name: IMG_8534.JPG
+      reference: 5d616a8d6d0b999a3e87b66656cfe579354f185f9d38c103937c44e1d9cf6c89
+      data:
+        metapx:date: 2022-08-21T09:16:00.000Z
+    - name: IMG_8559.JPG
+      reference: 3bbe8c9259b782b811f29f7f85aca761960603fe21efa8d539d30fcc9be993d9
+      data:
+        metapx:date: 2022-08-21T10:38:26.000Z
+    - name: IMG_8525.JPG
+      reference: 374b994d11c7987ba3d0c9dce0e877c2fe90a9c2bcae8dcf0b52643608634082
+      data:
+        metapx:date: 2022-08-21T09:01:04.000Z
+    - name: IMG_8522.JPG
+      reference: 4ff6d261b737efaaca29ab42053ba820d759259b0084194e49087467fc8a9345
+      data:
+        metapx:date: 2022-08-21T08:53:32.000Z
+    - name: IMG_8474.JPG
+      reference: 28b4d2a5e329420ca2343fc67afc18fc758f9d0350c37edbf23cf3ee6239b3c7
+      data:
+        metapx:date: 2022-08-20T09:55:24.000Z
+    - name: IMG_8557.JPG
+      reference: b02d1fe0bce8d5e1d54eaf0b12a95608cedbdf175460fc76a47147753fe10bd9
+      data:
+        metapx:date: 2022-08-21T09:47:44.000Z
+    - name: IMG_8473.JPG
+      reference: d252211ee4703366c0f7e1758df450f4519e42cca131406a2d5f7f43ee39a1fc
+      data:
+        metapx:date: 2022-08-20T09:54:58.000Z
+    - name: IMG_8562.JPG
+      reference: 3152272eec6de4552b4fe0f0dec4171fd5df477a5ac6f29b5d20f31d5937793d
+      data:
+        metapx:date: 2022-08-21T10:38:37.000Z
+    - name: IMG_8519.JPG
+      reference: 3752f189b157e40c2fdb8a7c60359c157102cbae2eb84ca3eef6ad66536bfd97
+      data:
+        metapx:date: 2022-08-20T15:46:48.000Z
+    - name: IMG_8490.JPG
+      reference: 33e0de5ae3c2d726d310720f46c54b5609aa5076619d57614e3279eb78d62320
+      data:
+        metapx:date: 2022-08-20T10:13:26.000Z
+    - name: IMG_8441.JPG
+      reference: ec200241d1cda23e9e951d0eab6a017d316c2825b72b6bda4405927b8893780e
+      data:
+        metapx:date: 2022-08-20T08:37:27.000Z
+    - name: IMG_8517.JPG
+      reference: 8b2439eb61ed64a754272deb524733949ba17194cde8fde96fc685ec179f8eaa
+      data:
+        metapx:date: 2022-08-20T15:46:30.000Z
+    - name: IMG_8499.JPG
+      reference: 81bb6d1d0f1f962781d0ea767a42fcd86f4e225844239b39ca5a32c015c5efca
+      data:
+        metapx:date: 2022-08-20T11:02:04.000Z
+    - name: IMG_8448.JPG
+      reference: b7c222aef089a55c7a862c34376ba3a79a2fd242aaa933892399a9b3f0882c12
+      data:
+        metapx:date: 2022-08-20T09:05:25.000Z
