@@ -1,0 +1,104 @@
+media:
+  title:
+    pl: Zdjęcia z telefonu Piotrka
+  content:
+    - name: IMG_20220723_151825.jpg
+      reference: dd7525c17274c58e986e4519454bfef2dcb5bb8ee7c9b3cdd57b127f506240d0
+      data:
+        metapx:date: 2022-07-23T13:18:25.000Z
+    - name: IMG_20220729_122107.jpg
+      reference: f04bca84837875676a8f01076bfc7aa388f06968e65841da32ea40ee33ad04f8
+      data:
+        metapx:date: 2022-07-29T10:21:07.000Z
+    - name: IMG_20220729_122055.jpg
+      reference: 22959bb081e72bc6f08db89101591f3eed7bf3e35a6ed13825bdbd5da6e991d2
+      data:
+        metapx:date: 2022-07-29T10:20:56.000Z
+    - name: IMG_20220728_210406.jpg
+      reference: 7a4d3ed5f3c038067b0370d783c931c1a020077ec932fc723ab4db37cf3cd37f
+      data:
+        metapx:date: 2022-07-28T19:04:06.000Z
+    - name: IMG_20220728_210347.jpg
+      reference: 81b643d8a9b7e9f78ee2c4ea95966dd7efb3b8b8bcf17bc712db4963a7ced279
+      data:
+        metapx:date: 2022-07-28T19:03:47.000Z
+    - name: IMG_20220728_172955.jpg
+      reference: b3dd20c3441bc53fdb7b971414035c1cabf6fc2b2fef1ce3420d9132ce40a151
+      data:
+        metapx:date: 2022-07-28T15:29:55.000Z
+    - name: IMG_20220728_110438.jpg
+      reference: 2da089027a42c9dbb784e70e6a6e27e021ecb1f32df4444fc0a6bf122b9e6b50
+      data:
+        metapx:date: 2022-07-28T09:04:38.000Z
+    - name: IMG_20220728_110435.jpg
+      reference: 87387ebdcdfa857f97ae405d86d232c193adb7a11d4be1dca5e564037eb7de0e
+      data:
+        metapx:date: 2022-07-28T09:04:36.000Z
+    - name: IMG_20220728_105835.jpg
+      reference: 2c51ebaf4972d4d069e831a7684d7efa330071c1c0b4ff98cccb37a3724d3676
+      data:
+        metapx:date: 2022-07-28T08:58:35.000Z
+    - name: IMG_20220728_105833.jpg
+      reference: a60b9fa3b02f54e36871ae93ae8f15810578e6ff788501f698a283a21ff09b58
+      data:
+        metapx:date: 2022-07-28T08:58:33.000Z
+    - name: IMG_20220727_141456.jpg
+      reference: 0a45ee95ac25ff0105365d449dcabbe845253f57b16b106f17e20c2d251bc791
+      data:
+        metapx:date: 2022-07-27T12:14:56.000Z
+    - name: IMG_20220727_141453.jpg
+      reference: 1724feb284652d51438710be31f76c69cfaa632cb6d5d8babe34e7fa14bb2163
+      data:
+        metapx:date: 2022-07-27T12:14:54.000Z
+    - name: IMG_20220727_141424.jpg
+      reference: 263192d830140ca8eae19c3e47271b94e849165ff9a1fc717b47e0cde62946ba
+      data:
+        metapx:date: 2022-07-27T12:14:24.000Z
+    - name: IMG_20220727_135419.jpg
+      reference: 9fa6c656d1346d0c15e9edde22f6947d628df86b335889964b849cd6d50ec2e7
+      data:
+        metapx:date: 2022-07-27T11:54:20.000Z
+    - name: IMG_20220727_134352.jpg
+      reference: a74a032400114309e5fa1903b6cd483373c7a5441b8978d21665e5ede3f9e570
+      data:
+        metapx:date: 2022-07-27T11:43:52.000Z
+    - name: IMG_20220727_101957.jpg
+      reference: bab25f77990824f4c8ff78e35d724fa3661207513edad245c726313542b13847
+      data:
+        metapx:date: 2022-07-27T08:19:57.000Z
+    - name: IMG_20220727_101949.jpg
+      reference: 4cab27cd48a391fe744d3d29d361464e4dce7a577c063f626b831c2f9f3266de
+      data:
+        metapx:date: 2022-07-27T08:19:49.000Z
+    - name: IMG_20220727_101942.jpg
+      reference: f2e89e60b177a788764d49afc9534706dbbba2b5f312a4ef293d6c1090bbe4d7
+      data:
+        metapx:date: 2022-07-27T08:19:43.000Z
+    - name: IMG_20220727_101920.jpg
+      reference: 315e44c6945d6662560b537035b58409268029ae8d7c6d7d6ff0b5d5282fc3d0
+      data:
+        metapx:date: 2022-07-27T08:19:20.000Z
+    - name: IMG_20220727_101919.jpg
+      reference: 57a818fac1addb9dc0696428f1f87239801a505dad5da7102634f61c172128fa
+      data:
+        metapx:date: 2022-07-27T08:19:19.000Z
+    - name: IMG_20220726_191810.jpg
+      reference: 611cde9d1b841da661197c55575c32c0ed182e41f491ef1219c99029523ba3c7
+      data:
+        metapx:date: 2022-07-26T17:18:10.000Z
+    - name: IMG_20220726_175543.jpg
+      reference: 3aace4b7de1aff40d53344d7a462f41bb49d2b4a84a39f1549c9b03be52229ca
+      data:
+        metapx:date: 2022-07-26T15:55:43.000Z
+    - name: IMG_20220726_175540.jpg
+      reference: 0b5f3368eeb9481a82e3e92614bc388c9cbcc398dae8e6fbc74754ca749739c9
+      data:
+        metapx:date: 2022-07-26T15:55:40.000Z
+    - name: IMG_20220726_143808.jpg
+      reference: 90be4f7df46c98560e977b624028c46b81d949d5242d979cfdf02e75823f999f
+      data:
+        metapx:date: 2022-07-26T12:38:08.000Z
+    - name: IMG_20220726_143755.jpg
+      reference: 6a77a305fc60da51e4b7108489a2ece42111538adfd2336b6370cf2aee8bbb6d
+      data:
+        metapx:date: 2022-07-26T12:37:55.000Z
