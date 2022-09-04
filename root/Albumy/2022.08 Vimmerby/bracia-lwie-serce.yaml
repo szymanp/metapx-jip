@@ -1,0 +1,9 @@
+group:
+  title:
+    pl: Bracia Lwie Serce
+    en: The Brothers Lionheart
+    da: Brødrene Løvehjerte
+  
+  query:
+    - data['metapx:date'] == date('2022-08-21') and data['metapx:date'] >= time('11:25') and data['metapx:date'] <= time('12:00')
+    - data['metapx:date'] == date('2022-08-21') and data['metapx:date'] >= time('12:30') and data['metapx:date'] <= time('13:00')

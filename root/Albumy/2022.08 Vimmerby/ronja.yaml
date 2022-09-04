@@ -1,0 +1,8 @@
+group:
+  title:
+    pl: Ronja, córka rozbójnika
+    en: Ronja, the Robber's Daughter
+    da: Ronja Røverdatter
+  
+  query:
+    - data['metapx:date'] == date('2022-08-21') and data['metapx:date'] >= time('11:00') and data['metapx:date'] <= time('11:20')

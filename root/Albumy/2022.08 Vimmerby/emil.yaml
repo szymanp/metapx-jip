@@ -1,0 +1,9 @@
+group:
+  title:
+    pl: Emil z Lonnebergi
+    en: Emil of Lönneberga
+    da: Emil fra Lønneberg
+  
+  query:
+    - data['metapx:date'] == date('2022-08-20') and data['metapx:date'] >= time('12:07') and data['metapx:date'] <= time('12:30')
+    - data['metapx:date'] == date('2022-08-20') and data['metapx:date'] >= time('14:00') and data['metapx:date'] <= time('14:30')
