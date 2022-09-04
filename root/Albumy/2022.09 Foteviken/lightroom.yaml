@@ -1,0 +1,47 @@
+media:
+  title: Lightroom
+
+  refine:
+    # Obrazy w ../aparat o tej samej nazwie (atrybut "name") co w tym pliku
+    # będą zastąpione wersjami zdefiniowanymi tutaj.
+    - parent-by-name:
+        path: ../aparat
+        role: primary
+  
+  content:
+    - name: IMG_8569.JPG
+      reference: 9b49a0391d0a157778656aad730abdf6301ac63946d7431193f9904b95dc576a
+      data:
+        metapx:date: 2022-09-04T10:09:57.000Z
+#    - name: IMG_8570.jpg
+#      reference: 3fefe0cb6c67906883035935e972e06db04146ee0d71c1799d8a67c80cab4e53
+#      data:
+#        metapx:date: 2022-09-04T10:09:57.000Z
+    - name: IMG_8573.JPG
+      reference: 9a5e15eede625fb13ea550a7a9c6ad1adde51e41f780d70ecceff567e0297c50
+      data:
+        metapx:date: 2022-09-04T10:09:57.000Z
+    - name: IMG_8577.JPG
+      reference: 33e90f3f34a638e03dd852ab0c8b9ee73761e01623b0956304eeccc915e5debc
+      data:
+        metapx:date: 2022-09-04T10:10:01.000Z
+    - name: IMG_8588.JPG
+      reference: d3afbcfc987ee76cee5bbea79d39ad6af35e7a5b1799aa628ac39000205ce6e7
+      data:
+        metapx:date: 2022-09-04T10:10:01.000Z
+    - name: IMG_8596.JPG
+      reference: 1489bfad80bfe13304f2788b6a87fef0a18ff0ec99b9e6168cc0e364c4e87753
+      data:
+        metapx:date: 2022-09-04T10:10:00.000Z
+    - name: IMG_8600.JPG
+      reference: 54ef76699feee99351c05e520d447d0ab648ed4da32ba5ac6bc18b3bd686d7f6
+      data:
+        metapx:date: 2022-09-04T10:10:03.000Z
+    - name: IMG_8616.JPG
+      reference: 4e9415fb5e4b4e25d5ddb97077ef0671a4814a7629ff7f46b427124524834c24
+      data:
+        metapx:date: 2022-09-04T10:10:04.000Z
+    - name: IMG_8644.JPG
+      reference: 5568807a4185436b42505fac2cfc97b74f13368b235a2632d66fd576d23f12fc
+      data:
+        metapx:date: 2022-09-04T10:10:06.000Z
