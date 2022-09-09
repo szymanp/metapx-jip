@@ -1,0 +1,3 @@
+group:
+  title: Catedral de Barcelona
+  query: data['metapx:date'] == date('2022-05-01') and data['metapx:date'] >= time('15:48') and data['metapx:date'] <= time('16:50')

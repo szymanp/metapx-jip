@@ -1,0 +1,6 @@
+group:
+  title:
+    es: Palau Güell
+    en: Güell Palace
+    pl: Pałac Güell
+  query: data['metapx:date'] == date('2022-05-03') and data['metapx:date'] >= time('14:00')

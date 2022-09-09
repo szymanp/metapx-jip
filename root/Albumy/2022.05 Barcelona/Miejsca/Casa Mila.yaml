@@ -1,0 +1,3 @@
+group:
+  title: Casa Milá (La Pedrera)
+  query: data['metapx:date'] == date('2022-05-04')

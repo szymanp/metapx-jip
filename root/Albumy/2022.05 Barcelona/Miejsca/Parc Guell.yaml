@@ -1,0 +1,3 @@
+group:
+  title: Parc Güell
+  query: data['metapx:date'] == date('2022-05-02') and data['metapx:date'] >= time('15:40')

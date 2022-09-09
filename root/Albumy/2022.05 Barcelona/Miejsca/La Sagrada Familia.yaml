@@ -1,0 +1,3 @@
+group:
+  title: La Sagrada Familia
+  query:  data['metapx:date'] == date('2022-05-02') and data['metapx:date'] <= time('13:30')
