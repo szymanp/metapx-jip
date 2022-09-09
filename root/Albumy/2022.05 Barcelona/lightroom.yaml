@@ -1,0 +1,23 @@
+media:
+  title: Lightroom
+
+  refine:
+  # Obrazy w ../camera o tej samej nazwie (atrybut "name") co w tym pliku
+  # będą zastąpione wersjami zdefiniowanymi tutaj.
+  - parent-by-name:
+      path: ../camera
+      role: primary
+
+  content:
+    - name: IMG_7920.JPG
+      reference: 5c91d6afdd2aded3736af0c0e9028cf8fc84e676e7f612eb1e51dc62e5d5c537
+      data:
+        metapx:date: 2022-05-07T16:53:44+02:00
+    - name: IMG_8141.JPG
+      reference: 9dda9234345310530cecc87276f6ced708ecd714f86d84edd5d626f8cd3537cc
+      data:
+        metapx:date: 2022-05-07T16:41:39+02:00
+    - name: IMG_7918.JPG
+      reference: 46a89452cbed480ccba5707273ec4b417db5f1383f1f76f25187aa79220ade4e
+      data:
+        metapx:date: 2022-05-07T16:53:41+02:00
