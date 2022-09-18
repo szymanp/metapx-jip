@@ -1,0 +1,23 @@
+media:
+  title:
+    pl: Ulubione
+    en: Favorite
+  content:
+  - name: IMG_20220916_213450.jpg
+    reference: 28c87f14b8c8079b4eea0242d879b9a3ed2737eebcf3ca957e71cd7f263753ff
+  - name: IMG_20220917_101228.jpg
+    reference: 575835d066e8fb8ef91f2027716edf329a6c5577c2dafd8745236f511279039f
+  - name: IMG_20220917_101251.jpg
+    reference: 13fc118e6249f13a11d904b9d789fe59f5ecbbc5bb394c115b404954bf08526b
+  - name: IMG_20220917_101557.jpg
+    reference: e38311dcb7c7efbd22b7b4e1e42d6e5f698a5b0a08e6f8ec659d14e3f47d8c83
+  - name: IMG_20220917_101607.jpg
+    reference: bf1fd5c0b3d3a2f64a99446db6391a28d88954e3a6d3b21baf18d728a4242b7f
+  - name: IMG_20220917_101615.jpg
+    reference: 1d7426bcaad7febf9f8b4705dc43ceee37f964a5c20943a3b0efa760a9050c38
+  - name: IMG_20220917_200037.jpg
+    reference: ead9c034b4a5a348afd98df932640ea3d426ecc0e12dd945fdb74561e1b707e2
+  - name: IMG_20220918_125323.jpg
+    reference: 151aa38051b09563b39b13eac681f3e41ac75472977941a889a450cced0c5f7c
+  - name: IMG_20220918_144231.jpg
+    reference: 02f3721ba7ea3311f4d9f892822f22b9bd7f9eab4949637c932728b9f40777d7
