@@ -26,3 +26,15 @@ całą załogą. Nie było już więc potrzeby zabierać Pippi do domu dziecka.
 
 # Emil 
 
+Emila ze Smalandii spotkaliśmy akurat jak wciągał swoją siostrę, Idę, na maszt od flagi, ponieważ chciała zobaczyć pobliską miejscowość - Lönnebergę.
+Ponieważ akurat ubrana była w czerwoną sukienkę z białym fartuszkiem, to sąsiedzi przybili w odwiedziny zaczęli się dopytywać czemu to w Katthult
+powiewa duńska flaga.
+
+<image src="./aparat/IMG_8493.JPG">
+
+A czemu Ida chciała zobaczyć Lönnebergę? A to ponieważ Emil był tam wcześniej u lekarza, po tym jak założył sobie na główę wazę od zupy.
+W niewyjaśniony sposób, gdy już tata Emila zapłacił za wizytę, waza zsunęła się Emilowi z głowy i rozbiła na kilka kawałków.
+
+Całe szczęście tata Emila zdołał ją posklejać. I to w samą porę. Bo na koniec, Emil znowu miał ją na głowie.
+
+
