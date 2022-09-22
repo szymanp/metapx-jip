@@ -1,9 +1,17 @@
 media:
+  title:
+    pl: Aparat
+    en: Camera
+
   refine:
   # The timezone is UTC+2, but the extracted dates are Zulu time (=UTC)
   - adjust-time: pt-2h
   # The camera was 40 minutes behind UTC+2.
   - adjust-time: pt40m
+
+  - data:
+      metapx:location:
+        path: /Miejsca/Hiszpania/Barcelona
 
   content:
   - name: IMG_7675.JPG
