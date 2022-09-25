@@ -3,7 +3,12 @@ group:
     pl: Pippi Pończoszanka
     en: Pippi Longstocking
     da: Pippi Langstrømpe
-  
+
+  description:
+    markdown:
+      Pippi Pończoszanka mieszka w Willi Śmiesznotce razem ze swoją małpką, Panem Nilssonem, oraz koniem. Obok niej mieszkają jej dobrzy
+      przyjaciele, Tommy i Annika.
+
   query:
     - data['metapx:date'] == date('2022-08-20') and data['metapx:date'] <= time('10:40')
     - data['metapx:date'] == date('2022-08-20') and data['metapx:date'] >= time('10:58') and data['metapx:date'] <= time('11:36')

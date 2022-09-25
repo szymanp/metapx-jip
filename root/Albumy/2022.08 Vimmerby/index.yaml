@@ -3,3 +3,8 @@ folder:
     pl: Świat Astrid Lindgren
     en: Astrid Lindgren's World
     da: Astrid Lindgrens Värld
+
+  description:
+    markdown:
+      pl: |
+        Odwiedziliśmy Pippi, Emila, Ronję...
