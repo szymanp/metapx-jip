@@ -1,0 +1,13 @@
+group:
+  title:
+    pl: Madika
+    en: Madicken
+  
+  description:
+    markdown:
+      pl: |
+        Madika to siedmioletnia dziewczynka, która mieszka ze swoją mamą Kajsą, tatą Jonasem - redaktorem naczelnym lokalnej gazety,
+        młodszą siostrą Lisabet i służącą Alvą.
+  
+  query:
+    - data['metapx:date'] == date('2022-08-21') and data['metapx:date'] >= time('12:05') and data['metapx:date'] <= time('12:21')
