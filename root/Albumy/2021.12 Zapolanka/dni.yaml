@@ -1,0 +1,12 @@
+group:
+  title:
+    pl: Dzień po dniu
+    en: Day by day
+  
+  subgroups:
+    - name: Dzień 1
+      query:  data['metapx:date'] == date('2021-12-26')
+    - name: Dzień 2
+      query:  data['metapx:date'] == date('2021-12-27')
+    - name: Dzień 3
+      query:  data['metapx:date'] == date('2021-12-28')
