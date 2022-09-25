@@ -1,4 +1,7 @@
 media:
+  title:
+    pl: Telefon Piotrka
+    en: Peter's phone
   content:
     - name: IMG_20220916_211948.jpg
       reference: dd07dea59496b2a41c27a427366ec7ceec2353b96b2e6068885b59bec75ce348

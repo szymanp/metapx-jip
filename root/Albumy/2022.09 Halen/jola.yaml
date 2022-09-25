@@ -1,0 +1,413 @@
+media:
+  title:
+    pl: Telefon Joli
+    en: Jola's phone
+  content:
+    - name: 20220916_174223.jpg
+      reference: cb09bb601caf7b8ca564837b2009eda1aa4a58896c2b60a87f299f51ec6b5791
+      data:
+        metapx:date: 2022-09-16T17:42:23+02:00
+    - name: 20220916_184101.jpg
+      reference: 75aad2f7228d2aab608c699eb6a029c2f87f377ce0edec01bc22bf4dd0369d67
+      data:
+        metapx:date: 2022-09-16T18:41:01+02:00
+    - name: 20220916_185150.jpg
+      reference: 82418580391f4d239f83dceffac24151a368407804c7011d948a73eba3e52243
+      data:
+        metapx:date: 2022-09-16T18:51:50+02:00
+    - name: 20220916_185218.jpg
+      reference: e15941368aa1b939719c50f91bd3262e7710207e4b9ffd0e69f4a8152d21a0e0
+      data:
+        metapx:date: 2022-09-16T18:52:19+02:00
+    - name: 20220916_185222.jpg
+      reference: 3f726f7243fc05e2754dd47ae079395f087dc8908339d91f625472b83cc58bb3
+      data:
+        metapx:date: 2022-09-16T18:52:22+02:00
+    - name: 20220916_192850.jpg
+      reference: e9f37b2698bac3388aab0297972e7b92898ebab8b64e07bbd2a7c6d303b3ce04
+      data:
+        metapx:date: 2022-09-16T19:28:50+02:00
+    - name: 20220916_192853.jpg
+      reference: 89c45741a7c14daac32601b8b29d2581ad69b2d717e82a8c253aea89dff8f2f9
+      data:
+        metapx:date: 2022-09-16T19:28:53+02:00
+    - name: 20220916_201458.jpg
+      reference: bd9fbd9ed4eda975c5b7f186e9f72c283d5f0fbe78d5e2ca59927e51f8d9d2c2
+      data:
+        metapx:date: 2022-09-16T20:14:59+02:00
+    - name: 20220916_201506.jpg
+      reference: 10972782c37f0754a0ef2db3a17ec1eb9b947d54a1f92572648e25d134074bd3
+      data:
+        metapx:date: 2022-09-16T20:15:08+02:00
+    - name: 20220916_201513.jpg
+      reference: 3bbc2ece82aa5998b39260a6196f9c9c56842dd442da729464bedef98ea6d867
+      data:
+        metapx:date: 2022-09-16T20:15:14+02:00
+    - name: 20220917_094125.jpg
+      reference: ba149b9131b7ffdb45c42e86be49da8bf6cad42c43a0fae1c4cbabb86e718a76
+      data:
+        metapx:date: 2022-09-17T09:41:25+02:00
+    - name: 20220917_094226.jpg
+      reference: a86f44d4ab7b2314c358dc495bbe955390ff7ac85205b89734ad09bf5e6714e1
+      data:
+        metapx:date: 2022-09-17T09:42:26+02:00
+    - name: 20220917_094712.jpg
+      reference: 3758c889a0e9c155f3ab266ea08302c6ab71100c9a7e5494918e6f5c49d2b62c
+      data:
+        metapx:date: 2022-09-17T09:47:12+02:00
+    - name: 20220917_094714.jpg
+      reference: 833bf6f723cb553b1bd7942da2a9e528c039560db59850dc5be4a65afecbc641
+      data:
+        metapx:date: 2022-09-17T09:47:14+02:00
+    - name: 20220917_095115.jpg
+      reference: 7954618cb20efe8430a0feabb0acaa7c09b4f349702b3b169b5ae3fa20826abf
+      data:
+        metapx:date: 2022-09-17T09:51:15+02:00
+    - name: 20220917_100426.jpg
+      reference: c8cc3b881ad8081506a876226b95b305dc75662e8e337c46dbdc823e32a7dc1f
+      data:
+        metapx:date: 2022-09-17T10:04:26+02:00
+    - name: 20220917_100428.jpg
+      reference: 35f281e028d9cf9156eb9b87e7a021511c17ef5316b6a7d4941d344aad8b1fd7
+      data:
+        metapx:date: 2022-09-17T10:04:28+02:00
+    - name: 20220917_100432.jpg
+      reference: f792bc54d062e4fa6579481de149e760a8a89fbaccc08562671febac6756ec0c
+      data:
+        metapx:date: 2022-09-17T10:04:32+02:00
+    - name: 20220917_100445.jpg
+      reference: f693b3c56b217f7b53736339a33f4795e86ba9a5f83dac9be49f3729009717f2
+      data:
+        metapx:date: 2022-09-17T10:04:45+02:00
+    - name: 20220917_100503.jpg
+      reference: 215fc9a6d690b4063e98cfe86a411cc812e3bed02d71a57e55e18719a5cee6be
+      data:
+        metapx:date: 2022-09-17T10:05:03+02:00
+    - name: 20220917_101356.jpg
+      reference: 33e0bf77b8635bba7bf5fba7b5a1d3620042ec990d671664bcff854e533fa64b
+      data:
+        metapx:date: 2022-09-17T10:13:56+02:00
+    - name: 20220917_101400.jpg
+      reference: df8313b0f11341a26d17d2ac799d7fd3278c9e02be0d468e00ab9f31ca1d23d9
+      data:
+        metapx:date: 2022-09-17T10:14:00+02:00
+    - name: 20220917_101404.jpg
+      reference: 790563ca60da3014dfc6a674e66485974edc89374026b2ea00410ff1f613f7dc
+      data:
+        metapx:date: 2022-09-17T10:14:04+02:00
+    - name: 20220917_101415.jpg
+      reference: dfbdfa6263e9dce70547ea3c5d6bb1e0f02741b61d69b97b57b6fe0c5313d761
+      data:
+        metapx:date: 2022-09-17T10:14:15+02:00
+    - name: 20220917_102336.jpg
+      reference: b4b396155c347f270ce50dcec525bb143988ab842351ad15f000c470526f93c8
+      data:
+        metapx:date: 2022-09-17T10:23:36+02:00
+    - name: 20220917_102342.jpg
+      reference: 7d635f8ce998491b891ca1e3f25363a7f47810d41ab0f732c9b7e474651df237
+      data:
+        metapx:date: 2022-09-17T10:23:43+02:00
+    - name: 20220917_102347.jpg
+      reference: 0d04cfb8e6f4e40ff1b31eeb4d1897656b282daf893185d602a85aec0d5a02bd
+      data:
+        metapx:date: 2022-09-17T10:23:47+02:00
+    - name: 20220917_102351.jpg
+      reference: 9397f6bf35089eb0051b6c890786a621ad4f26a56124f69111a38ddab994ed4e
+      data:
+        metapx:date: 2022-09-17T10:23:51+02:00
+    - name: 20220917_102354.jpg
+      reference: e300d4da35cc41ebf6efe67fd6dd60576a4675890633e55fb05bd8c3ec50902d
+      data:
+        metapx:date: 2022-09-17T10:23:55+02:00
+    - name: 20220917_102356.jpg
+      reference: d8d0b8f46bd3df694e83c500119b8e9de83ac9c8705bbe61ed68517d9fd84686
+      data:
+        metapx:date: 2022-09-17T10:23:57+02:00
+    - name: 20220917_102632.jpg
+      reference: 410038d9abe6eea1fea7d2124bc05bf7cb46d0e5f684bbf0f35f3966910254c5
+      data:
+        metapx:date: 2022-09-17T10:26:33+02:00
+    - name: 20220917_133038.jpg
+      reference: 3a92f1d3bf41066655ad8ff571b8a0bd127d28cc8b9753d37395db2cbdbe1ca9
+      data:
+        metapx:date: 2022-09-17T13:30:39+02:00
+    - name: 20220917_133044.jpg
+      reference: e4523f5383652f950e13cbb13ef0e1f43a6a2b4c750f0295cfb2ab023fc89008
+      data:
+        metapx:date: 2022-09-17T13:30:44+02:00
+    - name: 20220917_133045.jpg
+      reference: 55c7ec991e136de9acbde7723c5c263ea71b16bcbc1bced8aa5e66fd1b9b8b00
+      data:
+        metapx:date: 2022-09-17T13:30:45+02:00
+    - name: 20220917_133049.jpg
+      reference: 796ac10b5933ba457c59d8458a12c3099e4fa262c7dcf1040ddc646afee9dd45
+      data:
+        metapx:date: 2022-09-17T13:30:49+02:00
+    - name: 20220917_144057.jpg
+      reference: f50cd94aa5dca4e9601f1af6aacbcb09078be24ae3b5e48c765d0c0e37dc296f
+      data:
+        metapx:date: 2022-09-17T14:40:58+02:00
+    - name: 20220917_145129.jpg
+      reference: 9cf0384deab22c46e5ec81d9b9c0cac696d2bd94533e813c41f4ac127d465e4f
+      data:
+        metapx:date: 2022-09-17T14:51:29+02:00
+    - name: 20220917_145134.jpg
+      reference: 49b5d7571ed1e351b52a04f9039b5bfc65aa9d702a2f3c758599310420c5127b
+      data:
+        metapx:date: 2022-09-17T14:51:34+02:00
+    - name: 20220917_150419.jpg
+      reference: 94039e321cd6def86f6640ff0d4cc425b1ec02e2e1fe33b91bd4dd6c88d5af5c
+      data:
+        metapx:date: 2022-09-17T15:04:19+02:00
+    - name: 20220917_154531.jpg
+      reference: 9d0995b0fa7166c9cd92dcaf7c261ed0951504890b2a40755563d1bfcf343544
+      data:
+        metapx:date: 2022-09-17T15:45:31+02:00
+    - name: 20220917_154857.jpg
+      reference: 273afb1431abb1b02b0d2efea2fd65a875bfd3e0521b1d6afb6a9875799354e4
+      data:
+        metapx:date: 2022-09-17T15:48:58+02:00
+    - name: 20220917_170144.jpg
+      reference: 88f8ce09b3efbbd891ee206ae5a166ddfbef7b5566df0ee600650d5e0d6c3119
+      data:
+        metapx:date: 2022-09-17T17:01:44+02:00
+    - name: 20220917_170158.jpg
+      reference: 24119ed91abcab9f166d4ccd34746f65b0c3b1d60ba7f042e979f3c2aee5bb44
+      data:
+        metapx:date: 2022-09-17T17:01:58+02:00
+    - name: 20220917_170255.jpg
+      reference: c830ba13eced6a9303743c7917171f6bee95f16904da141a67f89a1dd5259295
+      data:
+        metapx:date: 2022-09-17T17:02:55+02:00
+    - name: 20220917_171622.jpg
+      reference: 6b5c262778b20f7c916bdbd4d134de968d4d3a2ce142067649bf26025ee5c26f
+      data:
+        metapx:date: 2022-09-17T17:16:22+02:00
+    - name: 20220917_171754.jpg
+      reference: 89b2ca6462d46e60724740b0b09150cc0a2e752d568d58776b7f3d0a47c2514f
+      data:
+        metapx:date: 2022-09-17T17:17:54+02:00
+    - name: 20220917_171756.jpg
+      reference: e66192644789e5cb0459c8ff4bb752a6a5ea209d66a36a50e6730a86af7a9f3d
+      data:
+        metapx:date: 2022-09-17T17:17:57+02:00
+    - name: 20220917_171802.jpg
+      reference: e5608c19a5f5b8e808d258b791e7986200d085dabf7b4c07cdae64e39a202360
+      data:
+        metapx:date: 2022-09-17T17:18:02+02:00
+    - name: 20220917_171945.jpg
+      reference: e419958cce395961330dc1eb88d446175baee6658f3dd0abd16328b971b3bc0c
+      data:
+        metapx:date: 2022-09-17T17:19:45+02:00
+    - name: 20220917_171947.jpg
+      reference: 409a0e381b9a339025034514650b024ddf1f9a0a5f2df053a1c4482dd528ea94
+      data:
+        metapx:date: 2022-09-17T17:19:48+02:00
+    - name: 20220917_171953.jpg
+      reference: 1ac3574bd8735a47b2274655f2fc3f11706cc2679b6359fea5edba4130dfc5dc
+      data:
+        metapx:date: 2022-09-17T17:19:53+02:00
+    - name: 20220917_175025.jpg
+      reference: 5c6102823e926be9ed33ba84f1073b827f3fae6322e82dabd081c1b1b68f0252
+      data:
+        metapx:date: 2022-09-17T17:50:25+02:00
+    - name: 20220917_175030.jpg
+      reference: e2c7d862778264d5cab969adda9f9da1c7c8f85ab75e5cc37757fd37398ec980
+      data:
+        metapx:date: 2022-09-17T17:50:30+02:00
+    - name: 20220917_175225.jpg
+      reference: c2639545d0a00ce869bd0cbd65f4bcb60fd4b5d9550eae194a37cc1eac5cafb3
+      data:
+        metapx:date: 2022-09-17T17:52:25+02:00
+    - name: 20220917_180714.jpg
+      reference: 4c97f2c7d72eae96e86a8ea001f6a8a79486bcf823b97eab733286b4617b2b43
+      data:
+        metapx:date: 2022-09-17T18:07:14+02:00
+    - name: 20220917_181332.jpg
+      reference: b074c2cf398f7164f513a51b787b5b2b78442fd44e9d3dcd27885bf2f4280d6e
+      data:
+        metapx:date: 2022-09-17T18:13:32+02:00
+    - name: 20220917_181336.jpg
+      reference: 31eeb75db0b09f074145b0d5e113b61ef2df8e0ed3657feb8e1549b36802c299
+      data:
+        metapx:date: 2022-09-17T18:13:36+02:00
+    - name: 20220917_181415.jpg
+      reference: 1dfb29af5a0a1058d6718add4a280fa83be0b67f28ad6954a98396f548f50f12
+      data:
+        metapx:date: 2022-09-17T18:14:15+02:00
+    - name: 20220917_183340.jpg
+      reference: 531cf39f25db5f1026ae15ab4cbfeb92ff549a5f91f68d07ba46bc6da029d97e
+      data:
+        metapx:date: 2022-09-17T18:33:41+02:00
+    - name: 20220917_183354.jpg
+      reference: 779d968f96c55341f01b9ad1100a9958f38cbd928532ebeaae4ad21c10e45226
+      data:
+        metapx:date: 2022-09-17T18:33:55+02:00
+    - name: 20220917_183403.jpg
+      reference: aed792663d3663a9ecf88237c5a9a2160a482e92255740687e665f4a9d547b4b
+      data:
+        metapx:date: 2022-09-17T18:34:03+02:00
+    - name: 20220917_183420.jpg
+      reference: 78803a9cac27e976980638304c786dc9573ca5059774bdd818af82926e303ed5
+      data:
+        metapx:date: 2022-09-17T18:34:20+02:00
+    - name: 20220917_184048.jpg
+      reference: b413b3008183649a0b350c55c928832a6f174620400e203935432cc7241ff8eb
+      data:
+        metapx:date: 2022-09-17T18:40:49+02:00
+    - name: 20220917_184051.jpg
+      reference: 2f6cf1e42bed1f60c5d4e4bfcfeb814e735d3247c9bcfafa58d879415be18477
+      data:
+        metapx:date: 2022-09-17T18:40:51+02:00
+    - name: 20220917_184105.jpg
+      reference: c6d5f9917acc56927b5a368986d4fd4bb5889eab574df8108e0ccff6786c540a
+      data:
+        metapx:date: 2022-09-17T18:41:06+02:00
+    - name: 20220917_184108.jpg
+      reference: 5b002f58cb44fa75acf62fe8a10b74b344b9a03a7e70440c5029251a210f7cd7
+      data:
+        metapx:date: 2022-09-17T18:41:09+02:00
+    - name: 20220917_184129.jpg
+      reference: be2f0e1c3ada4d5a007ec348c84907c4abff6dda218c293e61817252bb02f7dd
+      data:
+        metapx:date: 2022-09-17T18:41:29+02:00
+    - name: 20220917_184134.jpg
+      reference: 81b98c72c1a4d655091116bb077bc576e5905103effb7c8be554e15d904730cc
+      data:
+        metapx:date: 2022-09-17T18:41:35+02:00
+    - name: 20220917_192722.jpg
+      reference: 733bd3ee7354690089ac175ddd377dae9fb50b004b5010e6bcf81fbb0e1b3050
+      data:
+        metapx:date: 2022-09-17T19:27:22+02:00
+    - name: 20220917_192726.jpg
+      reference: 9feb51a550bb946b3023ba3e8be26b4d60054f3df50fb1e5c80d272952f6d814
+      data:
+        metapx:date: 2022-09-17T19:27:26+02:00
+    - name: 20220917_192729.jpg
+      reference: 3bcf2a2096da8eba77b684234d49b12a1236945eb015979c7f312cc67495554d
+      data:
+        metapx:date: 2022-09-17T19:27:29+02:00
+    - name: 20220917_193544.jpg
+      reference: 171fee86b611e76a6869cfa4fb41f07b9536426b3542d197d6bccb4bdf25ba74
+      data:
+        metapx:date: 2022-09-17T19:35:44+02:00
+    - name: 20220917_193546.jpg
+      reference: 61608aa723720844fa06c116c3151276d51d6de248d20cbd9b80557a563f47aa
+      data:
+        metapx:date: 2022-09-17T19:35:47+02:00
+    - name: 20220917_202815.jpg
+      reference: e13c33c0a4aecba29fae78d2ecfd55fe1221eb0eb323b814beb796857a0b3f16
+      data:
+        metapx:date: 2022-09-17T20:28:18+02:00
+    - name: 20220917_202820.jpg
+      reference: 9fed8ca19889415b50728b71c71dae04290ccc27d441bdb53bc7dd7565e9dcd3
+      data:
+        metapx:date: 2022-09-17T20:28:22+02:00
+    - name: 20220917_202846.jpg
+      reference: f5e0286f9194d7aa585738a9fa6728bd8c4c1d7fe88a88cf01d1d8b241c6af9c
+      data:
+        metapx:date: 2022-09-17T20:28:51+02:00
+    - name: 20220918_093629.jpg
+      reference: 3d9d8ca515a4ee12845648321a1a42083b55a266dd09e1eda0b2cd77e0931a60
+      data:
+        metapx:date: 2022-09-18T09:36:29+02:00
+    - name: 20220918_093633.jpg
+      reference: b1340d8d1b486c325cece169222ee863a179f986c3ff8a66671e2854d930f5e8
+      data:
+        metapx:date: 2022-09-18T09:36:33+02:00
+    - name: 20220918_093638.jpg
+      reference: 2133b6176e5b51b62d8ba1a4c3c3aa9ad2fa30339e75e74ca02b812ad37c6ea5
+      data:
+        metapx:date: 2022-09-18T09:36:38+02:00
+    - name: 20220918_112821.jpg
+      reference: 63392cc9defbfc8cedfe98355b8960087b759038876aec3e2986cc1d44b97a2d
+      data:
+        metapx:date: 2022-09-18T11:28:21+02:00
+    - name: 20220918_112826.jpg
+      reference: 5e99a3d97fa121c64bdd56d72fbd3de8df4f7c58334f799c64afbe6e5d1f7765
+      data:
+        metapx:date: 2022-09-18T11:28:27+02:00
+    - name: 20220918_112856.jpg
+      reference: 3738685e0022174725be97782bda6c5baea4a23281d02b4ee19cbb27deff358e
+      data:
+        metapx:date: 2022-09-18T11:28:56+02:00
+    - name: 20220918_112953.jpg
+      reference: ffbc1a80c6c509753147f589267b73d233954941a1dbc1cf969ed5610e3c37a8
+      data:
+        metapx:date: 2022-09-18T11:29:53+02:00
+    - name: 20220918_112955.jpg
+      reference: 3016897460939db9edefc320870aa35143ded9557d5484692c7fe3441658c6aa
+      data:
+        metapx:date: 2022-09-18T11:29:55+02:00
+    - name: 20220918_112958.jpg
+      reference: d616462593d1bbe6a19b8ce6999c2981c9453c8eeae640fe5b39ea7eadc5607e
+      data:
+        metapx:date: 2022-09-18T11:29:58+02:00
+    - name: 20220918_114801.jpg
+      reference: ef45d852c0ba5f202179a4b9ac7c22d5dff600cf2f533df804fa8281fa1b405b
+      data:
+        metapx:date: 2022-09-18T11:48:02+02:00
+    - name: 20220918_114807.jpg
+      reference: 8dadca6c2b9d8224b34fb6f24b8818ffa921b8bed4c4f5ba5bf77e78db5c55ba
+      data:
+        metapx:date: 2022-09-18T11:48:07+02:00
+    - name: 20220918_114814.jpg
+      reference: 78a84315e496fc6a5d0670f357d0d0ea57f384860d249da9a9d657285ffd17f3
+      data:
+        metapx:date: 2022-09-18T11:48:15+02:00
+    - name: 20220918_114817.jpg
+      reference: 9956bf5515a685b1d004fdd5dbe3a64c5dab844b098dfc1b273c46e2adcd2850
+      data:
+        metapx:date: 2022-09-18T11:48:17+02:00
+    - name: 20220918_114824.jpg
+      reference: e1b077cc0c36eb3caab5a86dc9da1b5984dff1e3b463a04a5b99fe1435c6d9e2
+      data:
+        metapx:date: 2022-09-18T11:48:25+02:00
+    - name: 20220918_120315.jpg
+      reference: dbd65c140d9e9103448a19dfbde8cf23f63355a32d298b977a11b4e4a834b7b5
+      data:
+        metapx:date: 2022-09-18T12:03:15+02:00
+    - name: 20220918_131038.jpg
+      reference: 0cc000818461a394eebbe0dbd6fb13b732e11e1b22025bd934bd23f68a6f714c
+      data:
+        metapx:date: 2022-09-18T13:10:38+02:00
+    - name: 20220918_131040.jpg
+      reference: f5c6ef9ee1b845122d98129ca13c2c2b29cf7ff7e502778f8504de0c09442c34
+      data:
+        metapx:date: 2022-09-18T13:10:40+02:00
+    - name: 20220918_131047.jpg
+      reference: 39f37bdcd4c61d9ce53909780c2fd722358d45b91556b7ec581c33f8473ba19b
+      data:
+        metapx:date: 2022-09-18T13:10:47+02:00
+    - name: 20220918_134129.jpg
+      reference: f529b061d734cd865276a4c9770245be14553eacbc59da77206a63976ad54c39
+      data:
+        metapx:date: 2022-09-18T13:41:29+02:00
+    - name: 20220918_134133.jpg
+      reference: 96f25149615d26ff096bcbe4467604368468a403e565f623a91a341792f44467
+      data:
+        metapx:date: 2022-09-18T13:41:33+02:00
+    - name: 20220918_134134.jpg
+      reference: 4bfc12f744e7dc52eeea38dbebc257d997f1798bdb79e8e12693d9a0fe42ebc3
+      data:
+        metapx:date: 2022-09-18T13:41:35+02:00
+    - name: 20220918_135601.jpg
+      reference: 2c53a2cb9df09c687b595f17c8ca591ed532b3891debdb209cffd511445f6bdb
+      data:
+        metapx:date: 2022-09-18T13:56:01+02:00
+    - name: 20220918_143150.jpg
+      reference: cadd95e912425583d347f264d7ac35506f609ff17bdd47484cc6a9abccc65f62
+      data:
+        metapx:date: 2022-09-18T14:31:50+02:00
+    - name: 20220918_143157.jpg
+      reference: 0c50ee0180b27814a415ddb1c9a5dec124fdd731936176df3bc05180aaa39e35
+      data:
+        metapx:date: 2022-09-18T14:31:58+02:00
+    - name: 20220918_144049.jpg
+      reference: 479ba5237a7dc66cfd324bc3581f8602a42d9c53a25b0de63195f0ccb60f3f6e
+      data:
+        metapx:date: 2022-09-18T14:40:49+02:00
+    - name: 20220918_144052.jpg
+      reference: 86237504ea105a0fcc663a9e92c30c884daa717f7d7fb6499ee622e9947cd097
+      data:
+        metapx:date: 2022-09-18T14:40:52+02:00
