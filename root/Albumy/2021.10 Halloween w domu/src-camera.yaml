@@ -1,91 +1,95 @@
 media:
-- name: IMG_6351.JPG
-  reference: 263d5671b4778a9b5905a39a7f95d36c1a0a24157038663df306ab0ec1fe2e32
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-30T17:07:40.430Z
-- name: IMG_6352.JPG
-  reference: 32f679c74ccce914a319ca09b93307a0b15cc714c1b3af254914f1829ccaffb3
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-30T17:08:05.290Z
-- name: IMG_6354.JPG
-  reference: 75d0a2afd728c66d34548debe492c688a93b6fbd57ab2f2ca09ce76dd10f1919
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-30T17:08:12.550Z
-- name: IMG_6356.JPG
-  reference: badfc2037cdbeb81c8be02115fec0faa70527eeef90c6e2e84c648d6e22cff28
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-30T17:08:15.560Z
-- name: IMG_6357.JPG
-  reference: 9f9de3fefcb7f7467d46f9e529cbe2703ba7eaf8dc0892f6889b10b14080910d
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-30T17:08:17.590Z
-- name: IMG_6359.JPG
-  reference: 5987a1ae897c341fae991e9b0f9d8c5f7e8e5a2e86a7b7ee6d586db4464913a0
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-30T17:08:19.860Z
-- name: IMG_6363.JPG
-  reference: 397e595a7ae36bb8a1acf255da97266e86326d35bee61490014f5f26f9530d0c
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-30T17:26:10.270Z
-- name: IMG_6364.JPG
-  reference: c1b0f16e2ef6ca91f94c3467f399009da0254bd9cfeea548278c36114e736f7a
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-30T17:26:19.580Z
-- name: IMG_6365.JPG
-  reference: c4596a10bd0d3a2fb5a7d31c10153aaede1b2543ec2de4fe90bc3ca7a055d9fc
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-30T17:26:26.700Z
-- name: IMG_6366.JPG
-  reference: 49771184920f9be7b9acd887eae1276e19cc263d167c80ce251b92d56ef69107
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-31T17:23:48Z
-- name: IMG_6367.JPG
-  reference: 2e98ffa7131925fcffd100886488c7ea5f760a09f4cebc9e982c9e5b2dd36654
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-31T17:23:48.390Z
-- name: IMG_6368.JPG
-  reference: 32c0eaaa774b53145dae6c94d44765406da69199266ebae1816141bcb46f4675
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-31T17:23:54Z
-- name: IMG_6370.JPG
-  reference: 6c805fe9ef81d6811b309d15c1338d3d32e1db34789b061fc8be49699307e019
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-31T17:27:08.650Z
-- name: IMG_6371.JPG
-  reference: 54eb4eb9e89f626b835fbdb0a3f5e20cb4a3c4026d1b9dd4296fa8b27c78a3f6
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-31T17:27:37.790Z
-- name: IMG_6372.JPG
-  reference: 7e25e629e4c9af15f5d7bdf6bf62ad2e9eb425bb8bdab51b0feb0e937cc6b5f2
-  data:
-    metapx:width: 5184
-    metapx:height: 3456
-    metapx:date: 2021-10-31T17:27:39.860Z
+  title:
+    pl: Zdjęcia z aparatu
+    en: Camera photos
+  content:
+  - name: IMG_6351.JPG
+    reference: 263d5671b4778a9b5905a39a7f95d36c1a0a24157038663df306ab0ec1fe2e32
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-30T17:07:40.430Z
+  - name: IMG_6352.JPG
+    reference: 32f679c74ccce914a319ca09b93307a0b15cc714c1b3af254914f1829ccaffb3
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-30T17:08:05.290Z
+  - name: IMG_6354.JPG
+    reference: 75d0a2afd728c66d34548debe492c688a93b6fbd57ab2f2ca09ce76dd10f1919
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-30T17:08:12.550Z
+  - name: IMG_6356.JPG
+    reference: badfc2037cdbeb81c8be02115fec0faa70527eeef90c6e2e84c648d6e22cff28
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-30T17:08:15.560Z
+  - name: IMG_6357.JPG
+    reference: 9f9de3fefcb7f7467d46f9e529cbe2703ba7eaf8dc0892f6889b10b14080910d
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-30T17:08:17.590Z
+  - name: IMG_6359.JPG
+    reference: 5987a1ae897c341fae991e9b0f9d8c5f7e8e5a2e86a7b7ee6d586db4464913a0
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-30T17:08:19.860Z
+  - name: IMG_6363.JPG
+    reference: 397e595a7ae36bb8a1acf255da97266e86326d35bee61490014f5f26f9530d0c
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-30T17:26:10.270Z
+  - name: IMG_6364.JPG
+    reference: c1b0f16e2ef6ca91f94c3467f399009da0254bd9cfeea548278c36114e736f7a
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-30T17:26:19.580Z
+  - name: IMG_6365.JPG
+    reference: c4596a10bd0d3a2fb5a7d31c10153aaede1b2543ec2de4fe90bc3ca7a055d9fc
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-30T17:26:26.700Z
+  - name: IMG_6366.JPG
+    reference: 49771184920f9be7b9acd887eae1276e19cc263d167c80ce251b92d56ef69107
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-31T17:23:48Z
+  - name: IMG_6367.JPG
+    reference: 2e98ffa7131925fcffd100886488c7ea5f760a09f4cebc9e982c9e5b2dd36654
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-31T17:23:48.390Z
+  - name: IMG_6368.JPG
+    reference: 32c0eaaa774b53145dae6c94d44765406da69199266ebae1816141bcb46f4675
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-31T17:23:54Z
+  - name: IMG_6370.JPG
+    reference: 6c805fe9ef81d6811b309d15c1338d3d32e1db34789b061fc8be49699307e019
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-31T17:27:08.650Z
+  - name: IMG_6371.JPG
+    reference: 54eb4eb9e89f626b835fbdb0a3f5e20cb4a3c4026d1b9dd4296fa8b27c78a3f6
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-31T17:27:37.790Z
+  - name: IMG_6372.JPG
+    reference: 7e25e629e4c9af15f5d7bdf6bf62ad2e9eb425bb8bdab51b0feb0e937cc6b5f2
+    data:
+      metapx:width: 5184
+      metapx:height: 3456
+      metapx:date: 2021-10-31T17:27:39.860Z

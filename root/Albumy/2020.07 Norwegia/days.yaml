@@ -6,9 +6,12 @@ group:
   subgroups:
     - name: Mandal
       description:
-        markdown:
-          Pierwszy dzień spędziliśmy w miejscowości [Mandal](https://goo.gl/maps/fwUCqYoKcwNCYXGm7).
-      
+        markdown: |
+          Pierwszy dzień spędziliśmy w miejscowości [Mandal](https://goo.gl/maps/fwUCqYoKcwNCYXGm7). Jest to bardzo turystyczna miejscowość, i gdy tam przyjechaliśmy, to okazało się, że kamping
+          na którym planowaliśmy spać jest zajęty.
+
+          W Mandal można podziwiać piękne, skaliste wybrzeże Norwegii.
+
       query: data['metapx:date'] == date('2020-07-08')
 
     - name: Lindesnes
@@ -21,6 +24,10 @@ group:
       title:
         pl: Flekkefjord i jaskinie Brufjell
         en: Flekkefjord and the Brufjell Caves
+      description:
+        markdown:
+          Jaskinie Brufjell to pierwsze z pocztówkowych miejsc, które odwiedziliśmy na naszej wycieczce do Norwegii.
+
       query: data['metapx:date'] == date('2020-07-10')
 
     - name: Flekkefjord, dzień 2
